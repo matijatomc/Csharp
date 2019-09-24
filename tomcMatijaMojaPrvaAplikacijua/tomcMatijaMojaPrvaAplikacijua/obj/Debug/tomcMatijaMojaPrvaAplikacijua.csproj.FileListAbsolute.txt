@@ -1,0 +1,7 @@
+C:\Users\3.D\source\repos\tomcMatijaMojaPrvaAplikacijua\tomcMatijaMojaPrvaAplikacijua\bin\Debug\tomcMatijaMojaPrvaAplikacijua.exe.config
+C:\Users\3.D\source\repos\tomcMatijaMojaPrvaAplikacijua\tomcMatijaMojaPrvaAplikacijua\bin\Debug\tomcMatijaMojaPrvaAplikacijua.exe
+C:\Users\3.D\source\repos\tomcMatijaMojaPrvaAplikacijua\tomcMatijaMojaPrvaAplikacijua\bin\Debug\tomcMatijaMojaPrvaAplikacijua.pdb
+C:\Users\3.D\source\repos\tomcMatijaMojaPrvaAplikacijua\tomcMatijaMojaPrvaAplikacijua\obj\Debug\tomcMatijaMojaPrvaAplikacijua.csprojAssemblyReference.cache
+C:\Users\3.D\source\repos\tomcMatijaMojaPrvaAplikacijua\tomcMatijaMojaPrvaAplikacijua\obj\Debug\tomcMatijaMojaPrvaAplikacijua.csproj.CoreCompileInputs.cache
+C:\Users\3.D\source\repos\tomcMatijaMojaPrvaAplikacijua\tomcMatijaMojaPrvaAplikacijua\obj\Debug\tomcMatijaMojaPrvaAplikacijua.exe
+C:\Users\3.D\source\repos\tomcMatijaMojaPrvaAplikacijua\tomcMatijaMojaPrvaAplikacijua\obj\Debug\tomcMatijaMojaPrvaAplikacijua.pdb
