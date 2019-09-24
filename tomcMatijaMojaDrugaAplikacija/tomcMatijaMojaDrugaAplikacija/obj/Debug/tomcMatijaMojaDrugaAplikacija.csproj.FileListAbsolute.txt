@@ -1,0 +1,10 @@
+C:\Users\3.D\source\repos\tomcMatijaMojaDrugaAplikacija\tomcMatijaMojaDrugaAplikacija\bin\Debug\tomcMatijaMojaDrugaAplikacija.exe.config
+C:\Users\3.D\source\repos\tomcMatijaMojaDrugaAplikacija\tomcMatijaMojaDrugaAplikacija\bin\Debug\tomcMatijaMojaDrugaAplikacija.exe
+C:\Users\3.D\source\repos\tomcMatijaMojaDrugaAplikacija\tomcMatijaMojaDrugaAplikacija\bin\Debug\tomcMatijaMojaDrugaAplikacija.pdb
+C:\Users\3.D\source\repos\tomcMatijaMojaDrugaAplikacija\tomcMatijaMojaDrugaAplikacija\obj\Debug\tomcMatijaMojaDrugaAplikacija.csprojAssemblyReference.cache
+C:\Users\3.D\source\repos\tomcMatijaMojaDrugaAplikacija\tomcMatijaMojaDrugaAplikacija\obj\Debug\tomcMatijaMojaDrugaAplikacija.Form1.resources
+C:\Users\3.D\source\repos\tomcMatijaMojaDrugaAplikacija\tomcMatijaMojaDrugaAplikacija\obj\Debug\tomcMatijaMojaDrugaAplikacija.Properties.Resources.resources
+C:\Users\3.D\source\repos\tomcMatijaMojaDrugaAplikacija\tomcMatijaMojaDrugaAplikacija\obj\Debug\tomcMatijaMojaDrugaAplikacija.csproj.GenerateResource.cache
+C:\Users\3.D\source\repos\tomcMatijaMojaDrugaAplikacija\tomcMatijaMojaDrugaAplikacija\obj\Debug\tomcMatijaMojaDrugaAplikacija.csproj.CoreCompileInputs.cache
+C:\Users\3.D\source\repos\tomcMatijaMojaDrugaAplikacija\tomcMatijaMojaDrugaAplikacija\obj\Debug\tomcMatijaMojaDrugaAplikacija.exe
+C:\Users\3.D\source\repos\tomcMatijaMojaDrugaAplikacija\tomcMatijaMojaDrugaAplikacija\obj\Debug\tomcMatijaMojaDrugaAplikacija.pdb
